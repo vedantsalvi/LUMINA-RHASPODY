@@ -1,4 +1,5 @@
-Lumina Rhapsody 
+**Lumina Rhapsody**
+
 As the name suggests we have to click the buttons according to the sequence in which the led glows! 
 This is a physical game I and few of my friend were working on for our College Mini Project.
 I handled the coding and interfacing of Arduino with the game.
